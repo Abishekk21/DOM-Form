@@ -1,5 +1,5 @@
 
-		const form = document.getElementById("myForm");
+		const form = document.getElementById("form");
 		const table = document.getElementById("myTable");
 
 		function addRow(firstName, lastName, pincode, address, gender, food, state, country) {
